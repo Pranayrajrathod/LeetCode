@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Pranayrajrathod/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0200-number-of-islands](https://github.com/Pranayrajrathod/LeetCode/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/Pranayrajrathod/LeetCode/tree/master/0322-coin-change) |
+| [0542-01-matrix](https://github.com/Pranayrajrathod/LeetCode/tree/master/0542-01-matrix) |
 | [0740-delete-and-earn](https://github.com/Pranayrajrathod/LeetCode/tree/master/0740-delete-and-earn) |
 | [0994-rotting-oranges](https://github.com/Pranayrajrathod/LeetCode/tree/master/0994-rotting-oranges) |
 ## Dynamic Programming
@@ -15,12 +16,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Pranayrajrathod/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0322-coin-change](https://github.com/Pranayrajrathod/LeetCode/tree/master/0322-coin-change) |
 | [0337-house-robber-iii](https://github.com/Pranayrajrathod/LeetCode/tree/master/0337-house-robber-iii) |
+| [0542-01-matrix](https://github.com/Pranayrajrathod/LeetCode/tree/master/0542-01-matrix) |
 | [0740-delete-and-earn](https://github.com/Pranayrajrathod/LeetCode/tree/master/0740-delete-and-earn) |
 ## Matrix
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/Pranayrajrathod/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0200-number-of-islands](https://github.com/Pranayrajrathod/LeetCode/tree/master/0200-number-of-islands) |
+| [0542-01-matrix](https://github.com/Pranayrajrathod/LeetCode/tree/master/0542-01-matrix) |
 | [0994-rotting-oranges](https://github.com/Pranayrajrathod/LeetCode/tree/master/0994-rotting-oranges) |
 ## Hash Table
 |  |
@@ -31,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/Pranayrajrathod/LeetCode/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/Pranayrajrathod/LeetCode/tree/master/0322-coin-change) |
+| [0542-01-matrix](https://github.com/Pranayrajrathod/LeetCode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Pranayrajrathod/LeetCode/tree/master/0547-number-of-provinces) |
 | [0994-rotting-oranges](https://github.com/Pranayrajrathod/LeetCode/tree/master/0994-rotting-oranges) |
 ## Depth-First Search
