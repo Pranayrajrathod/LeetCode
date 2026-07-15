@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Pranayrajrathod/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0200-number-of-islands](https://github.com/Pranayrajrathod/LeetCode/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/Pranayrajrathod/LeetCode/tree/master/0322-coin-change) |
+| [0416-partition-equal-subset-sum](https://github.com/Pranayrajrathod/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0542-01-matrix](https://github.com/Pranayrajrathod/LeetCode/tree/master/0542-01-matrix) |
 | [0740-delete-and-earn](https://github.com/Pranayrajrathod/LeetCode/tree/master/0740-delete-and-earn) |
 | [0994-rotting-oranges](https://github.com/Pranayrajrathod/LeetCode/tree/master/0994-rotting-oranges) |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Pranayrajrathod/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0322-coin-change](https://github.com/Pranayrajrathod/LeetCode/tree/master/0322-coin-change) |
 | [0337-house-robber-iii](https://github.com/Pranayrajrathod/LeetCode/tree/master/0337-house-robber-iii) |
+| [0416-partition-equal-subset-sum](https://github.com/Pranayrajrathod/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0542-01-matrix](https://github.com/Pranayrajrathod/LeetCode/tree/master/0542-01-matrix) |
 | [0740-delete-and-earn](https://github.com/Pranayrajrathod/LeetCode/tree/master/0740-delete-and-earn) |
 ## Matrix
