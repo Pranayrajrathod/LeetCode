@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Pranayrajrathod/LeetCode/tree/master/0053-maximum-subarray) |
 | [0064-minimum-path-sum](https://github.com/Pranayrajrathod/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0200-number-of-islands](https://github.com/Pranayrajrathod/LeetCode/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/Pranayrajrathod/LeetCode/tree/master/0322-coin-change) |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Pranayrajrathod/LeetCode/tree/master/0053-maximum-subarray) |
 | [0064-minimum-path-sum](https://github.com/Pranayrajrathod/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0322-coin-change](https://github.com/Pranayrajrathod/LeetCode/tree/master/0322-coin-change) |
 | [0337-house-robber-iii](https://github.com/Pranayrajrathod/LeetCode/tree/master/0337-house-robber-iii) |
@@ -98,4 +100,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/Pranayrajrathod/LeetCode/tree/master/0523-continuous-subarray-sum) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Pranayrajrathod/LeetCode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
