@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Pranayrajrathod/LeetCode/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/Pranayrajrathod/LeetCode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Pranayrajrathod/LeetCode/tree/master/0416-partition-equal-subset-sum) |
+| [0523-continuous-subarray-sum](https://github.com/Pranayrajrathod/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0542-01-matrix](https://github.com/Pranayrajrathod/LeetCode/tree/master/0542-01-matrix) |
 | [0740-delete-and-earn](https://github.com/Pranayrajrathod/LeetCode/tree/master/0740-delete-and-earn) |
 | [0994-rotting-oranges](https://github.com/Pranayrajrathod/LeetCode/tree/master/0994-rotting-oranges) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Pranayrajrathod/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0523-continuous-subarray-sum](https://github.com/Pranayrajrathod/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0740-delete-and-earn](https://github.com/Pranayrajrathod/LeetCode/tree/master/0740-delete-and-earn) |
 ## Breadth-First Search
 |  |
@@ -83,5 +85,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0523-continuous-subarray-sum](https://github.com/Pranayrajrathod/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [1314-matrix-block-sum](https://github.com/Pranayrajrathod/LeetCode/tree/master/1314-matrix-block-sum) |
+## Math
+|  |
+| ------- |
+| [0523-continuous-subarray-sum](https://github.com/Pranayrajrathod/LeetCode/tree/master/0523-continuous-subarray-sum) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0523-continuous-subarray-sum](https://github.com/Pranayrajrathod/LeetCode/tree/master/0523-continuous-subarray-sum) |
 <!---LeetCode Topics End-->
