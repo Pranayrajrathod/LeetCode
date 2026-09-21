@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/Pranayrajrathod/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0994-rotting-oranges](https://github.com/Pranayrajrathod/LeetCode/tree/master/0994-rotting-oranges) |
 | [1314-matrix-block-sum](https://github.com/Pranayrajrathod/LeetCode/tree/master/1314-matrix-block-sum) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Pranayrajrathod/LeetCode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/Pranayrajrathod/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0542-01-matrix](https://github.com/Pranayrajrathod/LeetCode/tree/master/0542-01-matrix) |
 | [0740-delete-and-earn](https://github.com/Pranayrajrathod/LeetCode/tree/master/0740-delete-and-earn) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Pranayrajrathod/LeetCode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Matrix
 |  |
 | ------- |
