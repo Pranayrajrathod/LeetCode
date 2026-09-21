@@ -17,5 +17,5 @@ class Solution:
                 r2=min(m,i+k+1) 
                 c2=min(n,j+k+1)
                 print(i,j,ps[max(0,i-k)][max(0,j-k)])
-                ans[i][j]=ps[r2][c2]-ps[r1][c2]-ps[r2][c1]+ps[max(0,i-k)][max(0,j-k)]
+                ans[i][j]=ps[r2][c2]-ps[r1][c2]-ps[r2][c1]+ps[r1][c1]
         return ans
