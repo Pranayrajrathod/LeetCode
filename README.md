@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Pranayrajrathod/LeetCode/tree/master/0053-maximum-subarray) |
 | [0064-minimum-path-sum](https://github.com/Pranayrajrathod/LeetCode/tree/master/0064-minimum-path-sum) |
+| [0152-maximum-product-subarray](https://github.com/Pranayrajrathod/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0200-number-of-islands](https://github.com/Pranayrajrathod/LeetCode/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/Pranayrajrathod/LeetCode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Pranayrajrathod/LeetCode/tree/master/0416-partition-equal-subset-sum) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Pranayrajrathod/LeetCode/tree/master/0053-maximum-subarray) |
 | [0064-minimum-path-sum](https://github.com/Pranayrajrathod/LeetCode/tree/master/0064-minimum-path-sum) |
+| [0152-maximum-product-subarray](https://github.com/Pranayrajrathod/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0322-coin-change](https://github.com/Pranayrajrathod/LeetCode/tree/master/0322-coin-change) |
 | [0337-house-robber-iii](https://github.com/Pranayrajrathod/LeetCode/tree/master/0337-house-robber-iii) |
 | [0416-partition-equal-subset-sum](https://github.com/Pranayrajrathod/LeetCode/tree/master/0416-partition-equal-subset-sum) |
