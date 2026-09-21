@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/Pranayrajrathod/LeetCode/tree/master/0542-01-matrix) |
 | [0740-delete-and-earn](https://github.com/Pranayrajrathod/LeetCode/tree/master/0740-delete-and-earn) |
 | [0994-rotting-oranges](https://github.com/Pranayrajrathod/LeetCode/tree/master/0994-rotting-oranges) |
+| [1314-matrix-block-sum](https://github.com/Pranayrajrathod/LeetCode/tree/master/1314-matrix-block-sum) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Pranayrajrathod/LeetCode/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/Pranayrajrathod/LeetCode/tree/master/0542-01-matrix) |
 | [0994-rotting-oranges](https://github.com/Pranayrajrathod/LeetCode/tree/master/0994-rotting-oranges) |
+| [1314-matrix-block-sum](https://github.com/Pranayrajrathod/LeetCode/tree/master/1314-matrix-block-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -78,4 +80,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Pranayrajrathod/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
+## Prefix Sum
+|  |
+| ------- |
+| [1314-matrix-block-sum](https://github.com/Pranayrajrathod/LeetCode/tree/master/1314-matrix-block-sum) |
 <!---LeetCode Topics End-->
