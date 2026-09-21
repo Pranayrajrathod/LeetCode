@@ -3,9 +3,7 @@ class Solution:
 
         l=len(nums)
         mx=-float('inf')
-        sm=0
         ps=0
-        ns=0
         for i in range(l):
             if(ps<0):
                 ps=0
